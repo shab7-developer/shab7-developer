@@ -1,4 +1,4 @@
-<img width="1916" height="918" alt="image" src="![4f803d78a04be959827136c972bcf4f7](https://github.com/user-attachments/assets/cd871bda-b14e-4f84-8272-b8d0b051453b)
+<img width="1916" height="918" alt="image" src="https://github.com/user-attachments/assets/cd871bda-b14e-4f84-8272-b8d0b051453b
 " /><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=808080&height=280&section=header&text=shab7-developer&fontSize=80&fontColor=fff&animation=fadeIn" alt="header banner"/>
 </p>
