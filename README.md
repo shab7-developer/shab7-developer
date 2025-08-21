@@ -5,7 +5,9 @@
 <h1 align="center">Hi there, I'm shab7-developer </h1>
 <h3 align="center">A passionate Full Stack Developer from Earth </h3>
 
-[Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/YOUR_USERNAME.github/visits)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shab7-developer&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
 
 <p align="center">
   <em>With over 3 years of hands-on experience, I specialize in creating robust digital solutions from concept to deployment.</em>
@@ -24,7 +26,7 @@
 
 ---
 
-### 💻 Languages and Tools:
+### Languages and Tools:
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
