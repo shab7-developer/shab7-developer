@@ -1,5 +1,4 @@
-
-" /><p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=808080&height=280&section=header&text=shab7-developer&fontSize=80&fontColor=fff&animation=fadeIn" alt="header banner"/>
 </p>
 
