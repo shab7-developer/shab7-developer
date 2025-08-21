@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=tkshab73mkdev&fontSize=80&fontColor=fff&animation=fadeIn" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=shab7-developer&fontSize=80&fontColor=fff&animation=fadeIn" alt="header banner"/>
 </p>
 
-<h1 align="center">Hi there, I'm tkshab73mkdev 👋</h1>
+<h1 align="center">Hi there, I'm shab7-developer 👋</h1>
 <h3 align="center">A passionate Full Stack Developer from Earth 🌍</h3>
 
 <p align="center">
